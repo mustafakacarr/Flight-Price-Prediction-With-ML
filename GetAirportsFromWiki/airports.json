@@ -1,0 +1,199 @@
+[
+  {
+    "City": "Adana",
+    "ICAO": "LTAF",
+    "IATA": "ADA",
+    "Airport": "\u015eakirpa\u015fa Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Ankara",
+    "ICAO": "LTAC",
+    "IATA": "ESB",
+    "Airport": "Ankara Esenbo\u011fa Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Antalya",
+    "ICAO": "LTAI",
+    "IATA": "AYT",
+    "Airport": "Antalya Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Alanya",
+    "ICAO": "LTFG",
+    "IATA": "GZP",
+    "Airport": "Gazipa\u015fa Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Bal\u0131kesir",
+    "ICAO": "LTFD",
+    "IATA": "EDO",
+    "Airport": "Bal\u0131kesir Koca Seyit Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Diyarbak\u0131r",
+    "ICAO": "LTCC",
+    "IATA": "DIY",
+    "Airport": "Diyarbak\u0131r Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Elaz\u0131\u011f",
+    "ICAO": "LTCA",
+    "IATA": "EZS",
+    "Airport": "Elaz\u0131\u011f Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Erzurum",
+    "ICAO": "LTCE",
+    "IATA": "ERZ",
+    "Airport": "Erzurum Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Gaziantep",
+    "ICAO": "LTAJ",
+    "IATA": "GZT",
+    "Airport": "Gaziantep Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Hatay",
+    "ICAO": "LTDA",
+    "IATA": "HTY",
+    "Airport": "Hatay Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "\u0130stanbul",
+    "ICAO": "LTFM",
+    "IATA": "IST",
+    "Airport": "\u0130stanbul Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "\u0130stanbul",
+    "ICAO": "LTFJ",
+    "IATA": "SAW",
+    "Airport": "Sabiha G\u00f6k\u00e7en Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "\u0130zmir",
+    "ICAO": "LTBJ",
+    "IATA": "ADB",
+    "Airport": "Adnan Menderes Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Kars",
+    "ICAO": "LTCF",
+    "IATA": "KSY",
+    "Airport": "Kars Harakani Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Kayseri",
+    "ICAO": "LTAU",
+    "IATA": "ASR",
+    "Airport": "Erkilet Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Konya",
+    "ICAO": "LTAN",
+    "IATA": "KYA",
+    "Airport": "Konya Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Malatya",
+    "ICAO": "LTAT",
+    "IATA": "MLX",
+    "Airport": "Malatya Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Mu\u011fla",
+    "ICAO": "LTBS",
+    "IATA": "DLM",
+    "Airport": "Dalaman Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Mu\u011fla",
+    "ICAO": "LTFE",
+    "IATA": "BJV",
+    "Airport": "Milas-Bodrum Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  },
+  {
+    "City": "Nev\u015fehir",
+    "ICAO": "LTAZ",
+    "IATA": "NAV",
+    "Airport": "Nev\u015fehir Kapadokya Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Ordu-Giresun",
+    "ICAO": "LTCB",
+    "IATA": "OGU",
+    "Airport": "Ordu-Giresun Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Rize-Artvin",
+    "ICAO": "LTFO",
+    "IATA": "RZV",
+    "Airport": "Rize-Artvin Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Samsun",
+    "ICAO": "LTFH",
+    "IATA": "SZF",
+    "Airport": "Samsun \u00c7ar\u015famba Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Sinop",
+    "ICAO": "LTCM",
+    "IATA": "NOP",
+    "Airport": "Sinop Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Sivas",
+    "ICAO": "LTAR",
+    "IATA": "VAS",
+    "Airport": "Sivas Nuri Demira\u011f Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "\u015eanl\u0131urfa",
+    "ICAO": "LTCS",
+    "IATA": "GNY",
+    "Airport": "\u015eanl\u0131urfa GAP Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Trabzon",
+    "ICAO": "LTCG",
+    "IATA": "TZX",
+    "Airport": "Trabzon Havaliman\u0131",
+    "UsageType": "Sivil"
+  },
+  {
+    "City": "Van",
+    "ICAO": "LTCI",
+    "IATA": "VAN",
+    "Airport": "Van Ferit Melen Havaliman\u0131",
+    "UsageType": "Sivil/Asker\u00ee"
+  }
+
+]
