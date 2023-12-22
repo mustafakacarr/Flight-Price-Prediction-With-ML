@@ -13,10 +13,9 @@ import time
 
 link = "https://en.wikipedia.org/wiki/List_of_airports_in_Turkey"
 
-driver = webdriver.Chrome() # Make sure to have the ChromeDriver executable in your PATH
+driver = webdriver.Chrome() 
 driver.get(link)
 
-# Wait for the page to load (you may need to adjust the time depending on your network speed)
 driver.implicitly_wait(20)
 time.sleep(3)
 soup = BeautifulSoup(driver.page_source, "html.parser")
